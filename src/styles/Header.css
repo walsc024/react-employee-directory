@@ -1,0 +1,10 @@
+.header {
+    background-color: #4C212A;
+    width: 100%;
+    color: #fff;
+    text-align: center;
+    border-bottom: 3px solid #01172F;
+    font-family:'Poppins', sans-serif;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}

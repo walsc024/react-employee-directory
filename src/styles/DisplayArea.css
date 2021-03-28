@@ -1,0 +1,14 @@
+.tableColumns {
+    width: 20%;
+    text-align: center;
+    padding-top: 2.5%;
+    background-color: #01172F;
+    color: #fff;
+    padding-bottom: 2.5%;
+}
+
+.tableData {
+    text-align: center;
+    width:auto;
+    padding-top: 2%;
+}
